@@ -2,15 +2,14 @@
 Website E-Shopindo
 ###################
 
-**Web Programming
-Kelompok 2:**
+**Web Programming Contribute:**
 
-1. 17190401 - Akhmad Nur Ghazi         **(Full Stack)**
-2. 17190749 - Muhammad Adhitya A.P     **(Full Stack)**
-3. 17190404 - Muhammad Agus Darmawan **(Frond End)**
-4. 17190759 - Muhammad Ryan Perdana  **(Content Writer)**
-5. 17190383 - Muhammad Syauqi T.F.K  **(Front End)**
-6. 17190398 - Rizki Aji Anggoro      **(Front End)**
+1. Akhmad Nur Ghazi         **(Full Stack)**
+2. Muhammad Adhitya A.P     **(Full Stack)**
+3. Muhammad Agus Darmawan **(Frond End)**
+4. Muhammad Ryan Perdana  **(Content Writer)**
+5. Muhammad Syauqi T.F.K  **(Front End)**
+6. Rizki Aji Anggoro      **(Front End)**
 
 
 *******************
